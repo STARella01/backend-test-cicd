@@ -14,6 +14,6 @@ public class HelloController {
 
     @GetMapping("/")
         public String root() {
-            return "Hi This Page After Moddifiyed 수정 후 일까요? 아닐까요? ㅎㅅㅎ";
+            return "Hi This Page After Moddifiyed 뭘까요???????";
         }
 }
