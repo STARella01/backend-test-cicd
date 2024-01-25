@@ -14,6 +14,6 @@ public class HelloController {
 
     @GetMapping("/")
         public String root() {
-            return "이 빗속을 걸어갈까요? 둘이서 말 없이 갈까요?222";
+            return "너의 맘 깊은 곳에 하고싶은 말 있으면, 고개들어 나를 보면 정녕 말을 못하리라.. 이 빗속을 걸어갈까요? 둘이서 말 없이 갈까요?222";
         }
 }
